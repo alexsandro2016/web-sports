@@ -1,6 +1,7 @@
 git add . 
 git commit -m ""
 git push
+git status
 
 42297,11504
 00001,954411
