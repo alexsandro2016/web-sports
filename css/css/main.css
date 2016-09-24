@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#featured{
+	padding-top: 2%;
+}
+
+#times{
+	text-align: justify;
+	padding-top: 0.5%;
+}
+
+#jogos{
+	padding-top:2%;
+}
+
+#jogo1{
+	background-color: #282c33;
+	color: white;
+	margin: 0px;
+}
+
+
+#tabelas{
+	padding-bottom: 2%;
+}
+
+.jogo > div{
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
